@@ -27,7 +27,7 @@ def mw4_get_semantic( _hex: str ):
 	
 	return mw4_Semantics[ _hex ]
 
-# Finish me if you ever decide to do full mw2019 supp :)
+# Finish me if you ever decide to do full mw2019 supp
 mw4_Semantics = {
 	'0x0' : 'c&s',
 	'0x1' : 'c&s',
@@ -85,6 +85,11 @@ class XModel( XAsset ):
 	}
 
 	def __init__( self, xmodel_name: str, lod_paths_array: list[ str:7 ] ) -> None:
+		"""
+		# UNFINISHED
+
+		(Had to do XMaterial first)
+		"""
 		super().__init__( xmodel_name, 'model' )
 
 		self.LODs = {};
