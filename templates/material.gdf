@@ -1,0 +1,14 @@
+	"{_asset_name}" ( "material.gdf" )
+	{{
+		"alphaRevealMap" "{reveal_map}"
+		"colorMap" "{col_map}"
+		"cosinePowerMap" "{gloss_map}"
+		"normalMap" "{normal_map}"
+		"occMap" "{ao_map}"
+		"heatmap" ""
+		"specColorMap" "{spec_map}"
+		"surfaceType" "{srfc_type}"
+		"glossSurfaceType" "{gloss_range}"
+		"materialCategory" "{category}"
+		"materialType" "{mtl_type}"
+	}}
