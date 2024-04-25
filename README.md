@@ -1,6 +1,11 @@
 # GDT Utils
 
-### Python utility module for Black Ops III GDT manipulation, streamlining GDT automation in python. 
+## Python utility module for Black Ops III GDT manipulation, streamlining GDT automation in python. 
+
+### Requirements:
+My [python utils](https://github.com/w4133d/pv_py_utils)
+
+###
 
 ```py
 from GDT_Utils.xasset import *
