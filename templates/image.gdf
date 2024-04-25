@@ -4,5 +4,6 @@
 		"semantic" "{_pbr_type}"
 		"compressionMethod" "{_compression}"
 		"imageType" "Texture"
+		"noMipMaps" "{no_mip_maps}"
 		"type" "image"
 	}}

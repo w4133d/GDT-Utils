@@ -11,4 +11,5 @@
 		"glossSurfaceType" "{gloss_range}"
 		"materialCategory" "{category}"
 		"materialType" "{mtl_type}"
+		"usage" "{usage}"
 	}}
