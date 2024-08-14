@@ -1,0 +1,13 @@
+	"{_asset_name}" ( "xmodel.gdf" )
+	{{
+		"BulletCollisionLOD" "{bullet_col_lod}"
+		"filename" "{lod0}"
+		"mediumLod" "{lod1}"
+		"lowLod" "{lod2}"
+		"lowestLod" "{lod3}"
+		"lod4File" "{lod4}"
+		"lod5File" "{lod5}"
+		"lod6File" "{lod6}"
+		"lod7File" "{lod7}"
+		"ShadowLOD" "{shadow_lod}"
+	}}

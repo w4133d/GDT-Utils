@@ -6,7 +6,7 @@
 		"normalMap" "{normal_map}"
 		"occMap" "{ao_map}"
 		"heatmap" ""
-		"specColorMap" "{spec_map}"
+		"specColorMap" "{spec_mask}"
 		"surfaceType" "{srfc_type}"
 		"glossSurfaceType" "{gloss_range}"
 		"materialCategory" "{category}"
